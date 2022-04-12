@@ -43,9 +43,21 @@
 // document.write(msg);
 
     //________________Question.9________________//
+// var str = "472";
+// var num = 472;
+// document.write("Value: " +  str + "<br/>");
+// document.write("Types of : " + typeof str + "<br/>");
+// document.write("Value: " +  num + "<br/>");
+// document.write("Types of : " + typeof num);
 
     //________________Question.10________________//
+// var user = prompt("Enter your input");
+// var user2 = user.toUpperCase();
+// document.write("User input : " + user + "<br/>");
+// document.write("Upper case : " + user2);
+
     //________________Question.11________________//
+
     //________________Question.12________________//
     //________________Question.1________________//
     //________________Question.1________________//
