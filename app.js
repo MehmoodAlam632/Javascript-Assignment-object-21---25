@@ -37,8 +37,13 @@
 // document.write("City: " + city + "<br/>" + "After replacement: " + city2);
 
     //________________Question.8________________//
+// var massage = "Ali and Sami are best friends. They play cricket and football together.";
+// var msg = massage.replace(/and/g, "&");
+// document.write(massage + "<br/>");
+// document.write(msg);
 
     //________________Question.9________________//
+
     //________________Question.10________________//
     //________________Question.11________________//
     //________________Question.12________________//
