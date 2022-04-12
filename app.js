@@ -24,15 +24,24 @@
 // document.write("String: " + a + "<br/>");
 // document.write("Last index of 'l': " + b);
 
-    //________________Question.1________________//
+    //________________Question.5________________//
+// var country = "Pakistani";
+// var b = country.charAt(3);
+// document.write("String: " + country + "<br/> Character at index 3: " + b );
 
-    //________________Question.1________________//
-    //________________Question.1________________//
-    //________________Question.1________________//
-    //________________Question.1________________//
-    //________________Question.1________________//
-    //________________Question.1________________//
-    //________________Question.1________________//
+    //________________Question.6________________//
+
+    //________________Question.7________________//
+// var city = "Hyderabad";
+// var city2 = city.replace(/Hyderabad/, "Islamabad");
+// document.write("City: " + city + "<br/>" + "After replacement: " + city2);
+
+    //________________Question.8________________//
+
+    //________________Question.9________________//
+    //________________Question.10________________//
+    //________________Question.11________________//
+    //________________Question.12________________//
     //________________Question.1________________//
     //________________Question.1________________//
     //________________Question.1________________//
